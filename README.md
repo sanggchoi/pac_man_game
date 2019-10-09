@@ -1,4 +1,4 @@
 # PacMan_Game
-Simple pac-man game built using Verilog.
+A variation of pac-man created with Verilog.
 
 Project by: David Choi, Kavan Liang (Made for CSC258)
